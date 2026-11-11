@@ -17,3 +17,5 @@
 ###     When the player presses this key
 ###     Play an animation
 ###     mana -10
+
+### Playthrough Demonstrating All Three Tasks: https://youtu.be/PlSkDhRmHgU?si=jeE3OqPo8rSlnvm4 
