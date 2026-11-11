@@ -18,4 +18,4 @@
 ###     Play an animation
 ###     mana -10
 
-### Playthrough Demonstrating All Three Tasks: https://youtu.be/PlSkDhRmHgU?si=jeE3OqPo8rSlnvm4 
+### Playthrough Demonstrating All Three Tasks: https://youtu.be/ea_hJxVYbJo?si=YbKiIluMbpqTMu5h
