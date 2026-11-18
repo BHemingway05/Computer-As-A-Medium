@@ -12,3 +12,5 @@
 ### Maybe you want an enemy to say a few last words or play a death animation when its health reaches 0?
 ### Maybe you want something to happen after the player enters a certain area?
 ### Be creative! You can use a Coroutine for anything that involves a delay or a sequence of actions over time.
+
+### Video Playthrough of All Three Tasks: https://youtu.be/yEMKFPh7h4c?si=Qh9fooV9Umpr957F

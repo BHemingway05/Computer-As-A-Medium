@@ -1,4 +1,4 @@
-### Bullet.cs
+// Bullet.cs
 using UnityEngine;
 public class Bullet : MonoBehaviour
 {
@@ -25,7 +25,7 @@ void Start()
 }
 
 
-### Enemy.cs
+// Enemy.cs
 using UnityEngine;
 public class Enemy : MonoBehaviour
 {
